@@ -6,7 +6,7 @@ saya menggunakan OS Kali linux. tools ini opsional nya sudah terinstall default.
 
 ### COMMAND TO RUN
 RUN bettercap tools `sudo bettercap` <br>
-table command http protocol (no SSL)
+#### table command http protocol (no SSL)
 | command | information |
 |---------|-------------|
 | help | to show bettercap option |
@@ -19,7 +19,7 @@ table command http protocol (no SSL)
 | set net.sniff.output (directory to save capt file) | for enable /home/user/Document/pentest.pcap |
 | net.sniff on | enable net sniff |
 
-table command https protocol (with SSL)
+#### table command https protocol (with SSL)
 | command | information |
 |---------|-------------|
 | help https.proxy | shown specific information about https.proxy |
