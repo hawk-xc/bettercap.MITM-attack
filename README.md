@@ -27,3 +27,6 @@ RUN bettercap tools `sudo bettercap` <br>
 | set dns.spoof.address (ip address) | set dns spoofing with IP Address |
 | set dns.spoof.domains (domain) | set dns spoofing domain, ex. gmail.com,www.gmail.com,https://gmail.com |
 | dns.spoof on | enable dns.spoof |
+<br>
+<br>
+![MITM](https://user-images.githubusercontent.com/92193431/173983407-df81ef0a-a41a-46c2-abcb-97bb0db59875.jpeg)
