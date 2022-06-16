@@ -5,7 +5,7 @@ lebih tepatnya kita meracuni ARP atau Address Resolution Protocol pada jaringan 
 saya menggunakan OS Kali linux. tools ini opsional nya sudah terinstall default. jika menggunakan selain Kali linux install dengan perintah. `sudo apt-get install bettercap`
 
 ### COMMAND TO RUN
-RUN bettercap tools `bettercap`
+RUN bettercap tools `sudo bettercap` <br>
 table command http protocol (no SSL)
 | command | information |
 |---------|-------------|
