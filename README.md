@@ -28,8 +28,7 @@ RUN bettercap tools `sudo bettercap` <br>
 | set dns.spoof.domains (domain) | set dns spoofing domain, ex. gmail.com,www.gmail.com,https://gmail.com |
 | dns.spoof on | enable dns.spoof |
 <br>
-```bash
-tools name:   Bettercap v2.32.0-1+b2
+<font color="red">tools name:   Bettercap v2.32.0-1+b2</font>
 attack layer model (OSI): Layer 2 (ARP), Layer 3 (IP Address), Layer 1 (Wireless, or cabling)
 Description:
 Complete, modular, portable and easily extensible MITM framework
